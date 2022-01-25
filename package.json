@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "ts-node main.server.ts",
+    "build": "ts-node main.ts"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^20.2.1",
+    "@types/axios": "^0.14.0",
+    "@types/node": "^17.0.4",
+    "axios": "^0.24.0"
+  }
+}
