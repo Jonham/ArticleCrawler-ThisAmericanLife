@@ -1,7 +1,7 @@
 // fetch info from HTML
 function getImageSrc(selector, parent = document) {
   const cover = parent.querySelector(selector)
-  return cover['src']
+  return cover['src'] || cover['currentSrc']
 }
 function getTextContent(selector, parent = document) {
   const elem = parent.querySelector(selector)
@@ -36,7 +36,7 @@ function main() {
   ).innerHTML
   const brief = JSON.parse(s)
 
-  const coverURL = getImageSrc('.episode-image img')
+  const coverURL = getImageSrc('.episode-image img,video')
   const summaryText = getTextContent(
     '.field-type-text-with-summary .field-item'
   )
