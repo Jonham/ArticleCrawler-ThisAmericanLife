@@ -22,7 +22,7 @@ export function articleActToString(
   return (
     `${
       timestampFormat ? timestampFormat + ' ' : ''
-    }${index}: ${title} - By ${author}
+    }${index}: ${title}${author ? ' - By ' + author : ''}
 ${SEPARATOR}
 ${brief}` + (tail && `\n${tail}`)
   )
