@@ -24,7 +24,7 @@ export const info: ArticleProto = {
       index: 'Act One',
       title: 'Buddy Picture',
       brief:
-        'Jonathan Goldstein with a story about friendship, mothers and sons, and what some have called the greatest phone message in the world.&nbsp;Jonathan is the host&nbsp;of the podcast&nbsp;<em>Heavyweight</em>.',
+        'Jonathan Goldstein with a story about friendship, mothers and sons, and what some have called the greatest phone message in the world. Jonathan is the host of the podcast <em>Heavyweight</em>.',
       author: 'Jonathan Goldstein',
       timestamp: 122,
       song: [],

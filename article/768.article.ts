@@ -11,7 +11,7 @@ export const info: ArticleProto ={
     {
       "index": "Prologue",
       "title": "Prologue",
-      "brief": "Host Ira Glass plays recordings of a woman named Katia in Kyiv, dealing with the quotidian challenges of life — like taking the dog out to pee — in the middle of the war.&nbsp;(7 minutes)We found out about Katia from the podcast <em>Vice News Reports</em>, a show with a lot of great reporting on the war in Ukraine, plus stories that are unfolding all over the world.",
+      "brief": "Host Ira Glass plays recordings of a woman named Katia in Kyiv, dealing with the quotidian challenges of life — like taking the dog out to pee — in the middle of the war. (7 minutes)We found out about Katia from the podcast <em>Vice News Reports</em>, a show with a lot of great reporting on the war in Ukraine, plus stories that are unfolding all over the world.",
       "author": "",
       "timestamp": 0,
       "song": []
@@ -19,7 +19,7 @@ export const info: ArticleProto ={
     {
       "index": "Act One",
       "title": "Yevgenia and Her Neighbors",
-      "brief": "As Kyiv empties out, Ukrainian photographer Yevgenia Belorusets documents her interactions with those who stayed behind.&nbsp;(15 minutes)We first saw her diaries at Isolarii.",
+      "brief": "As Kyiv empties out, Ukrainian photographer Yevgenia Belorusets documents her interactions with those who stayed behind. (15 minutes)We first saw her diaries at Isolarii.",
       "author": "",
       "timestamp": 464,
       "song": []
@@ -35,7 +35,7 @@ export const info: ArticleProto ={
     {
       "index": "Act Three",
       "title": "Alyona and Oleg",
-      "brief": "Reporter Ashley Cleek talks to one Russian protestor in the middle of re-evaluating one of her oldest friendships.&nbsp;(15 minutes)",
+      "brief": "Reporter Ashley Cleek talks to one Russian protestor in the middle of re-evaluating one of her oldest friendships. (15 minutes)",
       "author": "",
       "timestamp": 2645,
       "song": [

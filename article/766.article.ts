@@ -43,7 +43,7 @@ export const info: ArticleProto ={
     {
       "index": "Act Four",
       "title": "A Funny Thing Happened When We Were Already AT the Theater",
-      "brief": "Producer Chana Joffe-Walt tells the story of a woman who took it upon herself to do something in an effort to help, and was not well received.&nbsp;(8 minutes)If you want to find more from Tiffany King, check out her Instagram for links to her comedy and other work.&nbsp;",
+      "brief": "Producer Chana Joffe-Walt tells the story of a woman who took it upon herself to do something in an effort to help, and was not well received. (8 minutes)If you want to find more from Tiffany King, check out her Instagram for links to her comedy and other work. ",
       "author": "Chana Joffe-Walt",
       "timestamp": 2873,
       "song": [

@@ -27,7 +27,7 @@ export const info: ArticleProto ={
     {
       "index": "Act Two",
       "title": "Resilience is Futile",
-      "brief": "Miami writer Mario&nbsp;Alejandro Ariza on how his city is trying to beat back the impacts of climate change.",
+      "brief": "Miami writer Mario Alejandro Ariza on how his city is trying to beat back the impacts of climate change.",
       "author": "Mario Alejandro Ariza",
       "timestamp": 3085,
       "song": [

@@ -11,7 +11,7 @@ export const info: ArticleProto ={
     {
       "index": "Prologue",
       "title": "Prologue",
-      "brief": "Host Ira Glass revisits the one movie he’s seen more than any other, about an ocean liner that gets hit by a tsunami and flips over.&nbsp;(9&nbsp;minutes)",
+      "brief": "Host Ira Glass revisits the one movie he’s seen more than any other, about an ocean liner that gets hit by a tsunami and flips over. (9 minutes)",
       "author": "Ira Glass",
       "timestamp": 0,
       "song": []
@@ -43,7 +43,7 @@ export const info: ArticleProto ={
     {
       "index": "Act Four",
       "title": "The Kid Namastays in the Picture",
-      "brief": "Jaime Amor does yoga storytelling for kids at&nbsp;Cosmic Kids Yoga&nbsp;and on&nbsp;YouTube.&nbsp;We ask her to try taking on a film for grownups.",
+      "brief": "Jaime Amor does yoga storytelling for kids at Cosmic Kids Yoga and on YouTube. We ask her to try taking on a film for grownups.",
       "author": "Ira Glass",
       "timestamp": 3646,
       "song": [

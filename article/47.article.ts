@@ -17,7 +17,7 @@ export const info: ArticleProto = {
       index: 'Act One',
       title: 'Toys R Us',
       brief:
-        "Host Ira Glass goes to one of the epicenters of modern&nbsp;Christmas —&nbsp;the world's biggest toy store —&nbsp;minutes before closing on&nbsp;Christmas&nbsp;Eve.&nbsp; (5 1/2&nbsp;minutes)",
+        "Host Ira Glass goes to one of the epicenters of modern Christmas — the world's biggest toy store — minutes before closing on Christmas Eve.  (5 1/2 minutes)",
       author: 'Ira Glass',
       timestamp: 0,
       song: [],
@@ -26,7 +26,7 @@ export const info: ArticleProto = {
       index: 'Act Two',
       title: 'Santaland Diaries',
       brief:
-        "Writer David Sedaris's true account of two&nbsp;Christmas&nbsp;seasons he spent working as an elf at Macy's&nbsp;department store in New York.&nbsp; When a shorter version of this story first aired on NPR's <em>Morning&nbsp;Edition</em>, it generated more tape requests than any story in the show's history to that point. David’s latest book is <em>A Carnival of Snackery: Diaries (2003-2020)</em>.",
+        "Writer David Sedaris's true account of two Christmas seasons he spent working as an elf at Macy's department store in New York.  When a shorter version of this story first aired on NPR's <em>Morning Edition</em>, it generated more tape requests than any story in the show's history to that point. David’s latest book is <em>A Carnival of Snackery: Diaries (2003-2020)</em>.",
       author: 'David Sedaris',
       timestamp: 328,
       song: [
@@ -41,7 +41,7 @@ export const info: ArticleProto = {
       index: 'Act Three',
       title: 'Christmas Freud',
       brief:
-        "David Rakoff tells about his experience playing Sigmund Freud in the window of upscale Barney's&nbsp;department store in Manhattan. For&nbsp;Christmas.&nbsp;This was the first of dozens of appearances on our show by David Rakoff, who died in 2012.",
+        "David Rakoff tells about his experience playing Sigmund Freud in the window of upscale Barney's department store in Manhattan. For Christmas. This was the first of dozens of appearances on our show by David Rakoff, who died in 2012.",
       author: 'David Rakoff',
       timestamp: 2277,
       song: [],
@@ -50,7 +50,7 @@ export const info: ArticleProto = {
       index: 'Act Four',
       title: 'Act Four',
       brief:
-        'Tapes recorded in a Chicago home&nbsp;Christmas&nbsp;morning, more than 50 years ago.',
+        'Tapes recorded in a Chicago home Christmas morning, more than 50 years ago.',
       author: 'John Connors',
       timestamp: 3316,
       song: [],

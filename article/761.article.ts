@@ -11,7 +11,7 @@ export const info: ArticleProto ={
     {
       "index": "Prologue",
       "title": "Prologue",
-      "brief": "Ira introduces the first part of the latest podcast from Brian Reed (<em>S-Town</em>)&nbsp;and Hamza Syed — which all started when Hamza was a student with a burning question.",
+      "brief": "Ira introduces the first part of the latest podcast from Brian Reed (<em>S-Town</em>) and Hamza Syed — which all started when Hamza was a student with a burning question.",
       "author": "Ira Glass",
       "timestamp": 0,
       "song": []

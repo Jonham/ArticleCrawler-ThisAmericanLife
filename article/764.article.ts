@@ -11,7 +11,7 @@ export const info: ArticleProto ={
     {
       "index": "Prologue",
       "title": "Prologue",
-      "brief": "Host Chana Joffe-Walt talks to teachers and principals about the unique challenges the pandemic has created in their daily working lives.&nbsp;(7&nbsp; minutes)",
+      "brief": "Host Chana Joffe-Walt talks to teachers and principals about the unique challenges the pandemic has created in their daily working lives. (7  minutes)",
       "author": "Chana Joffe-Walt",
       "timestamp": 0,
       "song": []

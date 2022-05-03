@@ -11,7 +11,7 @@ export const info: ArticleProto ={
     {
       "index": "Prologue",
       "title": "Prologue",
-      "brief": "As a new high school principal, Dr. Whitfield felt moved by the national renouncement of racism he saw all around&nbsp;him in the wake of George Floyd’s murder.",
+      "brief": "As a new high school principal, Dr. Whitfield felt moved by the national renouncement of racism he saw all around him in the wake of George Floyd’s murder.",
       "author": "Emanuele Berry",
       "timestamp": 0,
       "song": []
@@ -27,7 +27,7 @@ export const info: ArticleProto ={
     {
       "index": "Act Two",
       "title": "The Farce Awakens",
-      "brief": "After the murder of George Floyd, sales of&nbsp;books by Black authors skyrocketed. Now, there are efforts to ban many of the same books.",
+      "brief": "After the murder of George Floyd, sales of books by Black authors skyrocketed. Now, there are efforts to ban many of the same books.",
       "author": "Chana Joffe-Walt",
       "timestamp": 2062,
       "song": [

@@ -11,7 +11,7 @@ export const info: ArticleProto ={
     {
       "index": "Prologue",
       "title": "Prologue",
-      "brief": "At Sullivan High School in Chicago, being able to communicate is key.&nbsp;(5 minutes)",
+      "brief": "At Sullivan High School in Chicago, being able to communicate is key. (5 minutes)",
       "author": "Ira Glass",
       "timestamp": 0,
       "song": []
@@ -19,7 +19,7 @@ export const info: ArticleProto ={
     {
       "index": "Act One",
       "title": "Until The Cows Come Home",
-      "brief": "A state senator tries persuading his own constituents, from his own party, that the 2020 election was not stolen.&nbsp;(17 minutes)",
+      "brief": "A state senator tries persuading his own constituents, from his own party, that the 2020 election was not stolen. (17 minutes)",
       "author": "David Kestenbaum",
       "timestamp": 327,
       "song": []
@@ -27,7 +27,7 @@ export const info: ArticleProto ={
     {
       "index": "Act Two",
       "title": "How I Met My Mother",
-      "brief": "Producer Elna Baker’s mom doles out some very harsh feedback for her daughter, which goes unnoticed for ten years.&nbsp;(14 minutes)",
+      "brief": "Producer Elna Baker’s mom doles out some very harsh feedback for her daughter, which goes unnoticed for ten years. (14 minutes)",
       "author": "Elna Baker",
       "timestamp": 1469,
       "song": []
@@ -35,7 +35,7 @@ export const info: ArticleProto ={
     {
       "index": "Act Three",
       "title": "Amelia Bedelia Works From Home",
-      "brief": "Literally, Amelia Bedelia works from home.&nbsp;(4 minutes)",
+      "brief": "Literally, Amelia Bedelia works from home. (4 minutes)",
       "author": "Hallie Cantor",
       "timestamp": 2431,
       "song": []
@@ -43,7 +43,7 @@ export const info: ArticleProto ={
     {
       "index": "Act Four",
       "title": "The Importance of Meeting Earnest ",
-      "brief": "For more than fifty years, Jeanne Darst’s dad neglected to tell his entire family about their entire family.&nbsp;(13 minutes)",
+      "brief": "For more than fifty years, Jeanne Darst’s dad neglected to tell his entire family about their entire family. (13 minutes)",
       "author": "Jeanne Darst",
       "timestamp": 2733,
       "song": []

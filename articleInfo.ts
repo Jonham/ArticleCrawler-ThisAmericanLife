@@ -35,7 +35,13 @@ function parseTimestamp(act: ArticleAct, audioOffset = 0) {
   const second = total % 60
   act.timestampFormat = `[${('00' + m).slice(-2)}:${('00' + second).slice(-2)}]`
 }
-
+export function replaceHTMLContent (raw) {
+  // replace &npsp;
+  raw = raw.replaceAll("&nbsp;", ' ')
+  // <em>xxx</em>
+  raw = raw.replace(/<em>(.+?)<\/em>/g, `**$1**`)
+  return raw
+}
 export function articleInfoToString(info: ArticleProto): string {
   const actStr = info.acts
     .map(i => articleActToString(i, info.audioOffset))
@@ -46,7 +52,7 @@ ${audioTitle(info)}
 
 ${info.number}: ${info.title}
 ${SEPARATOR}
-${info.brief}
+${replaceHTMLContent(info.brief)}s
 
 ${info.isUpdate ? info.preUpdateTime + '\n' : ''}${info.updateTime}
 ${SEPARATOR}

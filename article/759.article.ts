@@ -33,7 +33,7 @@ export const info: ArticleProto = {
       index: 'Act Two',
       title: 'It Begins',
       brief:
-        'The response to Rob and Reyna’s Facebook post is loud and immediate. This officer&nbsp;has a past and people have thoughts about him in the town he works, Muskegon, Michigan.',
+        'The response to Rob and Reyna’s Facebook post is loud and immediate. This officer has a past and people have thoughts about him in the town he works, Muskegon, Michigan.',
       author: '',
       timestamp: 891,
       song: [],

@@ -11,7 +11,7 @@ export const info: ArticleProto ={
     {
       "index": "Prologue",
       "title": "Prologue",
-      "brief": "Host Ira Glass zooms in on five surreal minutes of Hungary’s opposition campaign.&nbsp;(5 minutes)",
+      "brief": "Host Ira Glass zooms in on five surreal minutes of Hungary’s opposition campaign. (5 minutes)",
       "author": "Ira Glass",
       "timestamp": 0,
       "song": []

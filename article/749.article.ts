@@ -11,7 +11,7 @@ export const info: ArticleProto ={
     {
       "index": "Prologue",
       "title": "Prologue",
-      "brief": "Guest host Elna Baker hears of a story from Jane Marie, about an embarrassing moment that haunts her.&nbsp;(3 minutes)",
+      "brief": "Guest host Elna Baker hears of a story from Jane Marie, about an embarrassing moment that haunts her. (3 minutes)",
       "author": "Elna Baker",
       "timestamp": 0,
       "song": []
@@ -43,7 +43,7 @@ export const info: ArticleProto ={
     {
       "index": "Act Four",
       "title": "Putting the Bare Ass in Embarrassment",
-      "brief": "Cariad Harmon tells Elna Baker about what it was like to live through a literal embarrassment nightmare.&nbsp;(15 minutes)",
+      "brief": "Cariad Harmon tells Elna Baker about what it was like to live through a literal embarrassment nightmare. (15 minutes)",
       "author": "",
       "timestamp": 2727,
       "song": [
