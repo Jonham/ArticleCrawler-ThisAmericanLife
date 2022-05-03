@@ -27,7 +27,7 @@ export const info: ArticleProto ={
     {
       "index": "Act 4",
       "title": "More with Noah",
-      "brief": "Ira tromps around the woods some more with Noah Strycker, who explains, among other things, his problem with the movie <em>Spencer</em>.",
+      "brief": "Ira tromps around the woods some more with Noah Strycker, who explains, among other things, his problem with the movie **Spencer**.",
       "author": "",
       "timestamp": 1690,
       "song": []

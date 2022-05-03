@@ -19,7 +19,7 @@ export const info: ArticleProto ={
     {
       "index": "Act One",
       "title": "Anything You Say Can And Will Be Used...on Television",
-      "brief": "Dan Taberski takes us into the world of the TV shows Cops and Live PD. And talks to people about&nbsp;what it’s like to be caught by the police and caught on camera at the same time.",
+      "brief": "Dan Taberski takes us into the world of the TV shows Cops and Live PD. And talks to people about ;what it’s like to be caught by the police and caught on camera at the same time.",
       "author": "Dan Taberski",
       "timestamp": 312,
       "song": []

@@ -27,7 +27,7 @@ export const info: ArticleProto ={
     {
       "index": "Act Two",
       "title": "Act Two",
-      "brief": "The story of Craig Monteilh continues: What happens when you turn someone into the FBI who, it turns out, is working for the FBI? Trevor Aaronson, whom Sam Black interviewed for this story, has a book called <em>The Terror Factory: Inside the FBI’s Manufactured War on Terrorism</em>.",
+      "brief": "The story of Craig Monteilh continues: What happens when you turn someone into the FBI who, it turns out, is working for the FBI? Trevor Aaronson, whom Sam Black interviewed for this story, has a book called **The Terror Factory: Inside the FBI’s Manufactured War on Terrorism**.",
       "author": "Sam Black",
       "timestamp": 2113,
       "song": [

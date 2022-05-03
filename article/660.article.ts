@@ -11,7 +11,7 @@ export const info: ArticleProto ={
     {
       "index": "Prologue",
       "title": "Prologue",
-      "brief": "\tSean Cole explains why he decided that he would speak with a British accent—morning, noon and night—from the age of fourteen until he was sixteen, and how he believed the lie that he was British <em>must</em> be true.",
+      "brief": "\tSean Cole explains why he decided that he would speak with a British accent—morning, noon and night—from the age of fourteen until he was sixteen, and how he believed the lie that he was British **must** be true.",
       "author": "Ira Glass",
       "timestamp": 0,
       "song": []

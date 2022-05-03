@@ -11,7 +11,7 @@ export const info: ArticleProto ={
     {
       "index": "Prologue",
       "title": "Prologue",
-      "brief": "Ira goes to a crowded singles bar where it wasn’t hard to find serial ghosters — people who kiss and disappear. &nbsp;(8 minutes)",
+      "brief": "Ira goes to a crowded singles bar where it wasn’t hard to find serial ghosters — people who kiss and disappear.  ;(8 minutes)",
       "author": "Ira Glass",
       "timestamp": 0,
       "song": []

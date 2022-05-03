@@ -11,7 +11,7 @@ export const info: ArticleProto ={
     {
       "index": "Prologue",
       "title": "Prologue",
-      "brief": "Mike Wise tells Ira about a run he went on one winter night with his dog, years ago along the C&amp;O&nbsp;Canal in DC. It was late.",
+      "brief": "Mike Wise tells Ira about a run he went on one winter night with his dog, years ago along the C&amp;O ;Canal in DC. It was late.",
       "author": "Ira Glass",
       "timestamp": 0,
       "song": []
@@ -19,7 +19,7 @@ export const info: ArticleProto ={
     {
       "index": "Act One",
       "title": "New Sheriffs in Town",
-      "brief": "Jerry Nadler and other democrats in the House Judiciary Committee were anticipating their first&nbsp;major public appearance – and show of power – since winning back the house in November. As&nbsp;Nadler and his staff prepared to get some answers from then-acting Attorney General Matthew&nbsp;Whitaker about his role and conduct as interim AG, producer Zoe Chace follows them behind&nbsp;the scenes for weeks in the run-up to the hearing, to see if their strategies work, or don’t.",
+      "brief": "Jerry Nadler and other democrats in the House Judiciary Committee were anticipating their first ;major public appearance – and show of power – since winning back the house in November. As ;Nadler and his staff prepared to get some answers from then-acting Attorney General Matthew ;Whitaker about his role and conduct as interim AG, producer Zoe Chace follows them behind ;the scenes for weeks in the run-up to the hearing, to see if their strategies work, or don’t.",
       "author": "Zoe Chace",
       "timestamp": 646,
       "song": []
@@ -27,7 +27,7 @@ export const info: ArticleProto ={
     {
       "index": "Act Two",
       "title": "Going Under",
-      "brief": "When Jessica Hopper was inappropriately groped by an anesthesiologist, during labor, she tries to&nbsp;out him that same day, to a roomful of hospital staff who don’t believe her. That sets her on a many&nbsp;year mission to get someone to take up her cause.",
+      "brief": "When Jessica Hopper was inappropriately groped by an anesthesiologist, during labor, she tries to ;out him that same day, to a roomful of hospital staff who don’t believe her. That sets her on a many ;year mission to get someone to take up her cause.",
       "author": "Jessica Hopper",
       "timestamp": 2813,
       "song": [

@@ -11,7 +11,7 @@ export const info: ArticleProto ={
     {
       "index": "Prologue",
       "title": "Prologue",
-      "brief": "Host Ira Glass goes to Tijuana, Mexico where people trying to come to the U.S. asking for asylum have devised a new way to keep track of their place in line.  (11 minutes)Cindy Carcamo first wrote about this story for the <em>Los Angeles Times.</em>",
+      "brief": "Host Ira Glass goes to Tijuana, Mexico where people trying to come to the U.S. asking for asylum have devised a new way to keep track of their place in line.  (11 minutes)Cindy Carcamo first wrote about this story for the **Los Angeles Times.**",
       "author": "Ira Glass",
       "timestamp": 0,
       "song": []

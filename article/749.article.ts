@@ -19,7 +19,7 @@ export const info: ArticleProto ={
     {
       "index": "Act One",
       "title": "The Belle of the Gall",
-      "brief": "Elna Baker picks up with Jane Marie’s story. Jane Marie is the host of the podcast <em>The Dream</em>.",
+      "brief": "Elna Baker picks up with Jane Marie’s story. Jane Marie is the host of the podcast **The Dream**.",
       "author": "",
       "timestamp": 165,
       "song": []
@@ -27,7 +27,7 @@ export const info: ArticleProto ={
     {
       "index": "Act Two",
       "title": "Judgment Day",
-      "brief": "Writer Kiese Laymon tells Elna Baker his most embarrassing story. (It happened with one of the most important people in his life.) Kiese Laymon is the author of <em>Heavy</em> and <em>Long Division</em>.",
+      "brief": "Writer Kiese Laymon tells Elna Baker his most embarrassing story. (It happened with one of the most important people in his life.) Kiese Laymon is the author of **Heavy** and **Long Division**.",
       "author": "",
       "timestamp": 1005,
       "song": []

@@ -11,7 +11,7 @@ export const info: ArticleProto ={
     {
       "index": "Prologue",
       "title": "Prologue",
-      "brief": "Host Ira Glass plays recordings of a woman named Katia in Kyiv, dealing with the quotidian challenges of life — like taking the dog out to pee — in the middle of the war. (7 minutes)We found out about Katia from the podcast <em>Vice News Reports</em>, a show with a lot of great reporting on the war in Ukraine, plus stories that are unfolding all over the world.",
+      "brief": "Host Ira Glass plays recordings of a woman named Katia in Kyiv, dealing with the quotidian challenges of life — like taking the dog out to pee — in the middle of the war. (7 minutes)We found out about Katia from the podcast **Vice News Reports**, a show with a lot of great reporting on the war in Ukraine, plus stories that are unfolding all over the world.",
       "author": "",
       "timestamp": 0,
       "song": []

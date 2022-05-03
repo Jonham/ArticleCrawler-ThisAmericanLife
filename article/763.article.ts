@@ -11,7 +11,7 @@ export const info: ArticleProto ={
     {
       "index": "Prologue",
       "title": "Prologue",
-      "brief": "Late at night on the evening Russia invaded Ukraine, Ira talks to two people who escaped to Lviv, near the Polish border: a woman we call Natalie, and the Ukraine Correspondent for The Economist, Richard Ensor. Natalie’s harrowing story about escaping Kyiv is <em>not</em> the sort of war story that makes you think, \"I can't imagine what it'd be like to go through that.” In fact it’s just the opposite.",
+      "brief": "Late at night on the evening Russia invaded Ukraine, Ira talks to two people who escaped to Lviv, near the Polish border: a woman we call Natalie, and the Ukraine Correspondent for The Economist, Richard Ensor. Natalie’s harrowing story about escaping Kyiv is **not** the sort of war story that makes you think, \"I can't imagine what it'd be like to go through that.” In fact it’s just the opposite.",
       "author": "Ira Glass",
       "timestamp": 0,
       "song": []

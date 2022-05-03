@@ -41,7 +41,7 @@ export const info: ArticleProto ={
     {
       "index": "Act Three",
       "title": "The Book of Death Is Long and Boring",
-      "brief": "Where do we go when we die? Producer David Kestenbaum learns that the answer's pretty bureaucratic.&nbsp;",
+      "brief": "Where do we go when we die? Producer David Kestenbaum learns that the answer's pretty bureaucratic. ;",
       "author": "David Kestenbaum",
       "timestamp": 3323,
       "song": []

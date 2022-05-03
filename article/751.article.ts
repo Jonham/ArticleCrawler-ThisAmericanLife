@@ -19,7 +19,7 @@ export const info: ArticleProto ={
     {
       "index": "Act One",
       "title": "Many a Thing She Ought to Understand",
-      "brief": "Our producer, Diane Wu, spent most of her life thinking she doesn’t have a unique and personal take on <em>The Sound of Music</em>. She is wrong.",
+      "brief": "Our producer, Diane Wu, spent most of her life thinking she doesn’t have a unique and personal take on **The Sound of Music**. She is wrong.",
       "author": "Diane Wu",
       "timestamp": 538,
       "song": []

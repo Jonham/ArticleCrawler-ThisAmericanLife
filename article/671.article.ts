@@ -11,7 +11,7 @@ export const info: ArticleProto ={
     {
       "index": "Prologue",
       "title": "Prologue",
-      "brief": "Host Ira Glass talks to producer Zoe Chace about what she learned about the President and&nbsp;conspiracy theories at a Trump rally.",
+      "brief": "Host Ira Glass talks to producer Zoe Chace about what she learned about the President and ;conspiracy theories at a Trump rally.",
       "author": "Zoe Chace",
       "timestamp": 0,
       "song": []
@@ -19,7 +19,7 @@ export const info: ArticleProto ={
     {
       "index": "Act One",
       "title": "Show Me State of Mind",
-      "brief": "Writer Jelani Cobb travels to Missouri to talk to people in Ferguson about the troubling deaths of six&nbsp;activists there.",
+      "brief": "Writer Jelani Cobb travels to Missouri to talk to people in Ferguson about the troubling deaths of six ;activists there.",
       "author": "Jelani Cobb",
       "timestamp": 556,
       "song": []
@@ -27,7 +27,7 @@ export const info: ArticleProto ={
     {
       "index": "Act Two",
       "title": "The Red Menace Hits the Crimson Tide",
-      "brief": "A Democrat in Alabama watches helplessly as Russian internet bots play dirty with the 2016 election.&nbsp;But a year later, those same tactics inspire him to organize an election conspiracy of his own. Producer&nbsp;Ben Calhoun has the story.",
+      "brief": "A Democrat in Alabama watches helplessly as Russian internet bots play dirty with the 2016 election. ;But a year later, those same tactics inspire him to organize an election conspiracy of his own. Producer ;Ben Calhoun has the story.",
       "author": "Ben Calhoun",
       "timestamp": 2048,
       "song": [

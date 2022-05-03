@@ -26,7 +26,7 @@ export const info: ArticleProto = {
       index: 'Act Two',
       title: 'Santaland Diaries',
       brief:
-        "Writer David Sedaris's true account of two Christmas seasons he spent working as an elf at Macy's department store in New York.  When a shorter version of this story first aired on NPR's <em>Morning Edition</em>, it generated more tape requests than any story in the show's history to that point. David’s latest book is <em>A Carnival of Snackery: Diaries (2003-2020)</em>.",
+        "Writer David Sedaris's true account of two Christmas seasons he spent working as an elf at Macy's department store in New York.  When a shorter version of this story first aired on NPR's **Morning Edition**, it generated more tape requests than any story in the show's history to that point. David’s latest book is **A Carnival of Snackery: Diaries (2003-2020)**.",
       author: 'David Sedaris',
       timestamp: 328,
       song: [

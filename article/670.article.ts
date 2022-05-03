@@ -11,7 +11,7 @@ export const info: ArticleProto ={
     {
       "index": "Prologue",
       "title": "Prologue",
-      "brief": "Ira tells the story of a guy, Lenny Pozner, who strikes up a conversation with a stranger in a bar,&nbsp;only to learn the guy already knows who Lenny is. And the stranger is furious with him.",
+      "brief": "Ira tells the story of a guy, Lenny Pozner, who strikes up a conversation with a stranger in a bar, ;only to learn the guy already knows who Lenny is. And the stranger is furious with him.",
       "author": "Ira Glass",
       "timestamp": 0,
       "song": []
@@ -19,7 +19,7 @@ export const info: ArticleProto ={
     {
       "index": "Act One",
       "title": "Down the Rabbit Hole",
-      "brief": "Producer Miki Meek picks up the story of Lenny Pozner, whose son, Noah, was killed at Sandy&nbsp;Hook. In the years after Noah's death, Lenny and his family were harassed by people who believed&nbsp;the shooting at Sandy Hook never happened – that it was all a conspiracy.",
+      "brief": "Producer Miki Meek picks up the story of Lenny Pozner, whose son, Noah, was killed at Sandy ;Hook. In the years after Noah's death, Lenny and his family were harassed by people who believed ;the shooting at Sandy Hook never happened – that it was all a conspiracy.",
       "author": "Miki Meek",
       "timestamp": 275,
       "song": []
@@ -27,7 +27,7 @@ export const info: ArticleProto ={
     {
       "index": "Act Two",
       "title": "Alex in Wonderland",
-      "brief": "Alex Jones spread the idea that Sandy Hook was a hoax, on his radio show and website for years after the shooting.&nbsp;He's probably the country's most famous conspiracy theorist. He's even had Donald Trump on his&nbsp;show.",
+      "brief": "Alex Jones spread the idea that Sandy Hook was a hoax, on his radio show and website for years after the shooting. ;He's probably the country's most famous conspiracy theorist. He's even had Donald Trump on his ;show.",
       "author": "Jon Ronson",
       "timestamp": 2045,
       "song": [

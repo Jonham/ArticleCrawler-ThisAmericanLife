@@ -19,7 +19,7 @@ export const info: ArticleProto ={
     {
       "index": "Act One",
       "title": "Hoop Reams",
-      "brief": "Writer Michael Lewis takes us inside the world of NBA refereeing. He explains how protests about&nbsp;unfair calls have increased in recent years.",
+      "brief": "Writer Michael Lewis takes us inside the world of NBA refereeing. He explains how protests about ;unfair calls have increased in recent years.",
       "author": "Michael Lewis",
       "timestamp": 795,
       "song": []
@@ -27,7 +27,7 @@ export const info: ArticleProto ={
     {
       "index": "Act Two",
       "title": "The Fairer Sex",
-      "brief": "When Heidi Schreck was 15 years old she loved the United States Constitution — in part, because&nbsp;she believed it enshrined the idea of fairness. She traveled to American Legion posts across the&nbsp;country, where she competed in speaking competitions about the Constitution.",
+      "brief": "When Heidi Schreck was 15 years old she loved the United States Constitution — in part, because ;she believed it enshrined the idea of fairness. She traveled to American Legion posts across the ;country, where she competed in speaking competitions about the Constitution.",
       "author": "Heidi Schreck",
       "timestamp": 2816,
       "song": [

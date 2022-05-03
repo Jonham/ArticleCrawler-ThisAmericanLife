@@ -47,7 +47,7 @@ export const info: ArticleProto ={
     {
       "index": "Act Three",
       "title": "Yes, In My Backyard",
-      "brief": "The story of the government cracking down on smokestack emissions at a city factory—even though the residents <em>like</em> the emissions. We hear from Jorge Just, who explains the one, magical secret about Chicago that no one outside Chicago ever believes is true.",
+      "brief": "The story of the government cracking down on smokestack emissions at a city factory—even though the residents **like** the emissions. We hear from Jorge Just, who explains the one, magical secret about Chicago that no one outside Chicago ever believes is true.",
       "author": "Jorge Just",
       "timestamp": 2691,
       "song": []

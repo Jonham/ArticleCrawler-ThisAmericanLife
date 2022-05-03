@@ -11,7 +11,7 @@ export const info: ArticleProto ={
     {
       "index": "Prologue",
       "title": "Prologue",
-      "brief": "Ira tells the story of Dave, a former heroin addict who, with his friend Chris, launches a podcast&nbsp;inspired by the Howard Stern Show. Except it’s all about heavy drug use.",
+      "brief": "Ira tells the story of Dave, a former heroin addict who, with his friend Chris, launches a podcast ;inspired by the Howard Stern Show. Except it’s all about heavy drug use.",
       "author": "",
       "timestamp": 0,
       "song": []
@@ -27,7 +27,7 @@ export const info: ArticleProto ={
     {
       "index": "Act Two",
       "title": "Good Morning, Kafranbel",
-      "brief": "Reporter Dana Ballout tells the story of Radio Fresh, a community station in Syria that the local&nbsp;listeners depend on, and local militant factions try to shut down.",
+      "brief": "Reporter Dana Ballout tells the story of Radio Fresh, a community station in Syria that the local ;listeners depend on, and local militant factions try to shut down.",
       "author": "Dana Ballout",
       "timestamp": 2114,
       "song": [

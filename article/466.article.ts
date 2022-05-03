@@ -21,7 +21,7 @@ export const info: ArticleProto ={
     {
       "index": "Act One",
       "title": "Render Unto Caesar's Palace What Is Due To Caesar's Palace",
-      "brief": "Jack Hitt tells the story of the Christian card counting team featured in the documentary <em>Holy Rollers</em>, and why they see no contradiction in being devout Christians who spend their days in casinos. Jack is the author of the book <em>Bunch of Amateurs</em>.",
+      "brief": "Jack Hitt tells the story of the Christian card counting team featured in the documentary **Holy Rollers**, and why they see no contradiction in being devout Christians who spend their days in casinos. Jack is the author of the book **Bunch of Amateurs**.",
       "author": "Jack Hitt",
       "timestamp": 536,
       "song": []
@@ -37,7 +37,7 @@ export const info: ArticleProto ={
     {
       "index": "Act Two",
       "title": "Harrah's Today, Gone Tomorrow",
-      "brief": "Producer Sarah Koenig tells the story of a woman who sued the casino where she lost her inheritance, saying that it was to blame, not her. The story was inspired by a chapter in <em>The Power of Habit</em>, by Charles Duhigg.",
+      "brief": "Producer Sarah Koenig tells the story of a woman who sued the casino where she lost her inheritance, saying that it was to blame, not her. The story was inspired by a chapter in **The Power of Habit**, by Charles Duhigg.",
       "author": "Sarah Koenig",
       "timestamp": 1900,
       "song": [
