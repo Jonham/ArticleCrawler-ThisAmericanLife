@@ -1,15 +1,12 @@
 // fetch info from HTML
 function getImageSrc(selector, parent = document, getBgImage = false) {
   const cover = parent.querySelector(selector);
-  // console.log({ cover });
   if (!cover) return;
 
-  // console.log(cover.tagName);
   if (getBgImage && cover.tagName !== "IMG" && cover.tagName !== "VIDEO") {
     const computedStyle = getComputedStyle(cover);
     if (computedStyle.backgroundImage) {
       const m = computedStyle.backgroundImage.match(/url\("(.+)"\)/);
-      // console.log(m);
       if (m) {
         return m[1];
       }
@@ -17,6 +14,7 @@ function getImageSrc(selector, parent = document, getBgImage = false) {
   }
   return cover["src"] || cover["currentSrc"];
 }
+
 function getTextContent(selector, parent = document) {
   const elem = parent.querySelector(selector);
   if (!elem) {
@@ -25,6 +23,7 @@ function getTextContent(selector, parent = document) {
   }
   return replaceHTMLContent(elem["textContent"].trim());
 }
+
 function replaceHTMLContent(raw) {
   // replace &npsp;
   raw = raw.replaceAll("&nbsp;", " ");
@@ -32,6 +31,7 @@ function replaceHTMLContent(raw) {
   raw = raw.replace(/<em>(.+?)<\/em>/g, `**$1**`);
   return raw;
 }
+
 function getSpeakers(selector, parent = document) {
   const elems = parent.querySelectorAll(selector);
   if (!elems) {
@@ -119,7 +119,7 @@ function main() {
             return {
               index,
               title: title || name,
-              brief: summary,
+              brief: replaceHTMLContent(summary),
               author,
               timestamp,
               song,
@@ -138,7 +138,7 @@ function main() {
             return {
               index: i.tag,
               title: i.title,
-              brief: i.briefContent,
+              brief: replaceHTMLContent(i.briefContent),
               author: i.speakers.join(", "),
               timestamp: 0,
               song,
