@@ -3,12 +3,6 @@
   margin: 0;
 }
 
-#app button {
-  position: fixed;
-  left: 0;
-  top: 0;
-}
-
 .colorPreview {
   position: fixed;
   width: 40px;
@@ -19,4 +13,14 @@
   opacity: 0.96;
   display: none;
   transform: translateX(10px) translateY(10px);
+}
+
+.fix-top {
+  position: fixed;
+  left: 0;
+  top: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
 }

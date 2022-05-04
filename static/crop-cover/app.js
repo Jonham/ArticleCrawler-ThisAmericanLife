@@ -68,10 +68,34 @@ function getUniqueColor(row) {
   };
 }
 
-const app = createApp({
+createApp({
   setup() {
     const coverCanvas = ref();
     const colorPreview = ref();
+    const outputJpeg = (quality = 1) => {
+      /** @type {HTMLCanvasElement} */
+      const canvas = coverCanvas.value
+      canvas.toBlob(blob => {
+        const a = document.createElement('a')
+        a.download = 'download.jpg'
+        const url = URL.createObjectURL(blob)
+        a.href = url
+        a.addEventListener('click', () => setTimeout(() => URL.revokeObjectURL(url), 1500))
+        a.click()
+      }, 'image/jpeg', quality)
+    }
+    const outputPng = () => {
+      /** @type {HTMLCanvasElement} */
+      const canvas = coverCanvas.value
+      canvas.toBlob(blob => {
+        const a = document.createElement('a')
+        a.download = 'download.png'
+        const url = URL.createObjectURL(blob)
+        a.href = url
+        a.addEventListener('click', () => setTimeout(() => URL.revokeObjectURL(url), 1500))
+        a.click()
+      }, 'image/png')
+    }
 
     let isPicking = false;
     const pickColor = () => {
@@ -186,6 +210,8 @@ const app = createApp({
       coverCanvas,
       colorPreview,
       pickColor,
+      outputJpeg,
+      outputPng,
     };
   },
 }).mount("#app");
