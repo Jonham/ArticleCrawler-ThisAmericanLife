@@ -82,7 +82,7 @@ export const info: ArticleProto =${JSON.stringify(data, null, "  ")}`;
 }
 
 async function fetchMedia(link: string, number: number, mediaFolder: string, hint: string = '') {
-  const m = link.match(/\.(png|jpg|jpeg|gif|webp|mp3)/);
+  const m = link.match(/\.(png|jpg|jpeg|gif|webp|mp3|mp4)/);
   let suffix = m ? m[0] : ".png";
 
   const responseType = "arraybuffer";
