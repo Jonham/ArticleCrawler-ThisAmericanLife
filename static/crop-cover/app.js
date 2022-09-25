@@ -206,12 +206,50 @@ createApp({
         ev.preventDefault();
       });
     });
+
+    const openFile = () => {
+      const input = document.createElement('input')
+      input.type = 'file'
+      input.onchange = (ev) => {
+        console.log(ev)
+        const files = ev.currentTarget?.files;
+        const url = URL.createObjectURL(files[0]);
+        drawImage(url);
+      }
+      input.click()
+    }
+
+    async function onPaste() {
+      try {
+        const permission = await navigator.permissions.query({ name: 'clipboard-read' });
+        if (permission.state === 'denied') {
+          throw new Error('Not allowed to read clipboard.');
+        }
+        const clipboardContents = await navigator.clipboard.read();
+        console.log(clipboardContents)
+
+        for (const item of clipboardContents) {
+          const blob = await item.getType('image/png');
+          const url = URL.createObjectURL(blob);
+          drawImage(url);
+        }
+      }
+      catch (error) {
+        console.error(error.message);
+      }
+    }
+
+    document.onpaste = (ev) => {
+      onPaste()
+    }
+
     return {
       coverCanvas,
       colorPreview,
       pickColor,
       outputJpeg,
       outputPng,
+      openFile,
     };
   },
 }).mount("#app");

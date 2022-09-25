@@ -46,13 +46,15 @@ export function articleInfoToString(info: ArticleProto): string {
   const actStr = info.acts
     .map(i => articleActToString(i, info.audioOffset))
     .join('\n\n')
+  const sontList = info.acts.map(i => i.song.map(i => stringifySong(i)).join('\n')).filter(Boolean).join('\n')
 
   return `audioTitle:
 ${audioTitle(info)}
+${sontList}
 
 ${info.number}: ${info.title}
 ${SEPARATOR}
-${replaceHTMLContent(info.brief)}s
+${replaceHTMLContent(info.brief)}
 
 ${info.isUpdate ? info.preUpdateTime + '\n' : ''}${info.updateTime}
 ${SEPARATOR}

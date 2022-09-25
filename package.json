@@ -1,6 +1,7 @@
 {
   "scripts": {
     "dev": "ts-node main.server.ts",
+    "transform": "ts-node doTransform.ts",
     "build": "ts-node main.ts"
   },
   "dependencies": {
