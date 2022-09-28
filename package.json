@@ -2,6 +2,7 @@
   "scripts": {
     "dev": "ts-node main.server.ts",
     "transform": "ts-node doTransform.ts",
+    "t": "yarn transform",
     "build": "ts-node main.ts"
   },
   "dependencies": {

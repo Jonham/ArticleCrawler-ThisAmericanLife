@@ -8,12 +8,12 @@ export const info: ArticleProto ={
   isUpdate: true,
   "updateTime": "September 23, 2022",
   "coverURL": "https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/tal_750_the_ferryman_ivan_canu.jpg?itok=_GFNxMfx",
-  "audioURL": "https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/750.mp3",
+  "audioURL": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/d1c38816-d10c-4741-a110-80653f969c00/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&awEpisodeId=d1c38816-d10c-4741-a110-80653f969c00",
   "acts": [
     {
       "index": "Prologue",
       "title": "Prologue",
-      "brief": "Amy D'Addario had ferried her mother to the hospital dozens of times before. But then, on a trip that turned out to be the last one, the GPS chose a different route. (7 minutes)",
+      "brief": "Amy D'Addario had ferried her mother to the hospital dozens of times before.",
       "author": "Ira Glass",
       "timestamp": 0,
       "song": []
@@ -21,25 +21,25 @@ export const info: ArticleProto ={
     {
       "index": "Act One",
       "title": "I Was A Teenage Smuggler",
-      "brief": "Because the U.S. doesn’t usually prosecute anyone under 18 for the crime of smuggling people illegally across the border from Mexico, tons of teenagers do it, for money. Reporter Kevin Sieff spent months talking to some of them. Kevin also reported this story for the Washington Post. (19 minutes)",
+      "brief": "Because the U.S. doesn’t usually prosecute anyone under 18 for the crime of smuggling people illegally across the border from Mexico, tons of teenagers do it, for money. Reporter Kevin Sieff spent months talking to some of them.",
       "author": "Kevin Sieff",
-      "timestamp": 0,
+      "timestamp": 458,
       "song": []
     },
     {
       "index": "Act Two",
       "title": "Last Ride",
-      "brief": "What’s it like, being on that boat with the immortal ferryman, heading into the underworld? Writer Marie Phillips imagines one such trip. Actor Noma Dumezweni reads. (8 minutes)",
+      "brief": "What’s it like, being on that boat with the immortal ferryman, heading into the underworld? Writer Marie Phillips imagines one such trip. Actor Noma Dumezweni reads.",
       "author": "Marie Phillips",
-      "timestamp": 0,
+      "timestamp": 1717,
       "song": []
     },
     {
       "index": "Act Three",
       "title": "Better Call Dave",
-      "brief": "When you need to retrieve all manner of treasures secured behind steel doors and complex locks, there’s one man you can count on: safecracker Dave McOmie. David Kestenbaum tells the story of how McOmie was asked to break into a very complex vault, left behind by a very famous person after they died. (16 minutes)\n\nDavid McOmie has a memoir out called Safecracker: A Chronicle of the Coolest Job in the World.",
+      "brief": "When you need to retrieve all manner of treasures secured behind steel doors and complex locks, there’s one man you can count on: safecracker Dave McOmie.",
       "author": "David Kestenbaum",
-      "timestamp": 0,
+      "timestamp": 2305,
       "song": [
         {
           "raw": "“Are You Going My Way” by The Essex",
