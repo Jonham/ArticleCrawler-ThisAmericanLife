@@ -396,6 +396,11 @@ node-notifier@^10.0.1:
     uuid "^8.3.2"
     which "^2.0.2"
 
+progress@^2.0.3:
+  version "2.0.3"
+  resolved "https://mirrors.cloud.tencent.com/npm/progress/-/progress-2.0.3.tgz#7e8cf8d8f5b8f239c1bc68beb4eb78567d572ef8"
+  integrity sha512-7PiHtLll5LdnKIMw100I+8xJXR5gW2QwWYkT6iJva0bXitZKa/XMrSbdmg3r2Xnaidz9Qumd0VPaMrZlF9V9sA==
+
 semver@^7.3.5:
   version "7.3.7"
   resolved "https://registry.yarnpkg.com/semver/-/semver-7.3.7.tgz#12c5b649afdbf9049707796e22a4028814ce523f"
