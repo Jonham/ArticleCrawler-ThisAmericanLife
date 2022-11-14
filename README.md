@@ -8,3 +8,7 @@
 
 ## Cover Crop Tool
 http://localhost:3000/crop-cover/
+
+
+## Project Planning
+use Rust to implement this repo to implement auto-crawling.
