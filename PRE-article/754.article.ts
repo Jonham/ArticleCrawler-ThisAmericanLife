@@ -21,7 +21,7 @@ export const info: ArticleProto ={
       "title": "Don’t Chicken Out",
       "brief": "Carmen Milito tells Ira the story of a date she went on as a teenager, and the bird her mom brought to the occasion.",
       "author": "Ira Glass",
-      "timestamp": 812,
+      "timestamp": 811,
       "song": []
     },
     {
@@ -29,7 +29,7 @@ export const info: ArticleProto ={
       "title": "More with Noah",
       "brief": "Ira tromps around the woods some more with Noah Strycker, who explains, among other things, his problem with the movie **Spencer**.",
       "author": "",
-      "timestamp": 1690,
+      "timestamp": 1715,
       "song": []
     },
     {
@@ -37,7 +37,7 @@ export const info: ArticleProto ={
       "title": "A Scrub Is a Bird That Can’t Get No Love From Me",
       "brief": "Producer Bim Adewunmi on a decades-long political battle in Florida -- between the incumbent state bird and the challenger that threatens to knock it off its perch.",
       "author": "Bim Adewunmi",
-      "timestamp": 1918,
+      "timestamp": 1959,
       "song": []
     },
     {
@@ -45,7 +45,7 @@ export const info: ArticleProto ={
       "title": "We Need to Talk About Birdly",
       "brief": "There are the birds who exist, and then there are the birds who may as well exist. Producer Sean Cole explains.",
       "author": "Sean Cole",
-      "timestamp": 2402,
+      "timestamp": 2384,
       "song": [
         {
           "raw": "“We’re Gonna Live in the Trees” by Robyn Hitchcock",

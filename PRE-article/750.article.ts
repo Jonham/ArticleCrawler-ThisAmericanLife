@@ -3,10 +3,12 @@ import { ArticleProto } from '../parseContent'
 export const info: ArticleProto ={
   "number": 750,
   "title": "The Ferryman",
-  "brief": "Stories about getting from Point A to Point B—with expert assistance.",
-  "updateTime": "October 15, 2021",
+  "brief": "Getting from Point A to Point B—with expert assistance.",
+  "preUpdateTime": "October 15, 2021",
+  isUpdate: true,
+  "updateTime": "September 23, 2022",
   "coverURL": "https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/tal_750_the_ferryman_ivan_canu.jpg?itok=_GFNxMfx",
-  "audioURL": "https://stream.thisamericanlife.org/750/GJ6TK3EPDYZFM1AINqnIXfQXQxo2pQeMOm61ot7ZkcM/750.mp3",
+  "audioURL": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/d1c38816-d10c-4741-a110-80653f969c00/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&awEpisodeId=d1c38816-d10c-4741-a110-80653f969c00",
   "acts": [
     {
       "index": "Prologue",
@@ -29,7 +31,7 @@ export const info: ArticleProto ={
       "title": "Last Ride",
       "brief": "What’s it like, being on that boat with the immortal ferryman, heading into the underworld? Writer Marie Phillips imagines one such trip. Actor Noma Dumezweni reads.",
       "author": "Marie Phillips",
-      "timestamp": 1710,
+      "timestamp": 1717,
       "song": []
     },
     {
@@ -37,7 +39,7 @@ export const info: ArticleProto ={
       "title": "Better Call Dave",
       "brief": "When you need to retrieve all manner of treasures secured behind steel doors and complex locks, there’s one man you can count on: safecracker Dave McOmie.",
       "author": "David Kestenbaum",
-      "timestamp": 2296,
+      "timestamp": 2305,
       "song": [
         {
           "raw": "“Are You Going My Way” by The Essex",
