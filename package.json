@@ -10,6 +10,7 @@
     "@types/axios": "^0.14.0",
     "@types/node": "^17.0.4",
     "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.12",
     "progress": "^2.0.3"
   },
   "devDependencies": {
