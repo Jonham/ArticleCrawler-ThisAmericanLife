@@ -1,5 +1,5 @@
 // fetch info from HTML
-const host = 'http://localhost:3030'
+const host = "http://localhost:3030";
 function getImageSrc(selector, parent = document, getBgImage = false) {
   const cover = parent.querySelector(selector);
   if (!cover) return;

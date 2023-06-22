@@ -97,9 +97,8 @@ async function loadArchivePageData() {
 function fetchDetailPageContent(rawContent, rawMetadata) {
   const $ = load(rawContent.replaceAll("&nbsp;", " "));
   const title = $(".episode-title h1").text();
-  const brief = getItemFromList(
-    $(".field-type-text-with-summary p")
-  ).children[0].data.trim();
+  const items = getItemFromList($(".field-type-text-with-summary p"));
+  const brief = items.children[0].data.trim();
   const mainArticle = $("#main article.view-full")[0];
 
   const number = +getAttr(mainArticle, "data-episode");
@@ -132,8 +131,8 @@ function fetchDetailPageContent(rawContent, rawMetadata) {
         : [
             {
               raw: song,
-              name: song.split("by")[0].trim(),
-              singer: song.split("by")[1].trim(),
+              name: song.split("by")[0]?.trim() ?? "",
+              singer: song.split("by")[1]?.trim() ?? "",
             },
           ],
     };
