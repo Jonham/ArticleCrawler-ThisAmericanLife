@@ -1,9 +1,12 @@
 #! env zx
 import { load } from "cheerio";
+import { execSync } from "child_process";
 import { existsSync } from "fs";
 import { writeFile } from "fs/promises";
 
 const link = "https://www.thisamericanlife.org/archive";
+
+execSync(`open ${link}`);
 
 const dataList = await loadArchivePageData();
 const list = dataList.slice(0, 10);
