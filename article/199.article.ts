@@ -8,7 +8,7 @@ export const info: ArticleProto ={
   "isUpdate": true,
   "updateTime": "July 21, 2023",
   "coverURL": "https://www.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/loon_lake_8-ep_page-sub.jpg?itok=Aa4xhITW",
-  "audioURL": "https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/199.mp3",
+  "audioURL": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/830fd744-f922-4c93-a245-28c778cb3a62/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&awEpisodeId=830fd744-f922-4c93-a245-28c778cb3a62",
   "acts": [
     {
       "index": "",
