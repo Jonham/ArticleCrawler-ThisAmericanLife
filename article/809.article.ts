@@ -21,7 +21,7 @@ export const info: ArticleProto ={
     {
       "index": "Act One",
       "title": "Jessie",
-      "brief": "The Never Use Alone hotline was set up so that drug users can call if they are say, using heroin by themselves. Someone will stay on the line with them in case they overdose. We hear the recording of one call, from a woman named Kimber. (13 minutes)Mary Harris is the host of Slate's daily news podcast, What Next.",
+      "brief": "The Never Use Alone hotline was set up so that drug users can call if they are say, using heroin by themselves. Someone will stay on the line with them in case they overdose. We hear the recording of one call, from a woman named Kimber. (13 minutes)Mary Harris is the host and managing editor of Slate's daily news podcast, What Next. They were our collaborators on this story, you can read their print version and see more photos by Aymann Ismail.",
       "author": "Mary HarrisDavid Kestenbaum",
       "timestamp": 0,
       "song": []

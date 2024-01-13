@@ -36,7 +36,7 @@ export const info: ArticleProto ={
       "index": "Act Two",
       "title": "Oh Mother Where Art Thou?",
       "brief": "Contributor Samuel James thought he knew what happened to his mother. But he was wrong. Then he was wrong again. (9 minutes)Samuel James tells stories and plays guitar at his website.",
-      "author": "Samuel James",
+      "author": "Samuel JamesDavid Kestenbaum",
       "timestamp": 0,
       "song": []
     },

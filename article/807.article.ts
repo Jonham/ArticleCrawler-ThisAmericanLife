@@ -14,7 +14,7 @@ export const info: ArticleProto ={
       "index": "Prologue",
       "title": "Prologue",
       "brief": "An extended family, and eight fights. (1 minutes)",
-      "author": "",
+      "author": "Masha Gessen",
       "timestamp": 0,
       "song": []
     },
@@ -78,7 +78,7 @@ export const info: ArticleProto ={
       "index": "Epilogue",
       "title": "Epilogue",
       "brief": "Nadia and Karen’s son, Luka, who most of these fights are about, gets the last word. (3 minutes)",
-      "author": "",
+      "author": "Valerie KipnisAndrey BorzenkoLika Kremer",
       "timestamp": 0,
       "song": [
         {

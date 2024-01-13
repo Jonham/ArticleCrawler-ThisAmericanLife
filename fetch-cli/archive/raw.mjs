@@ -3,6 +3,7 @@ import { load } from "cheerio";
 import { execSync } from "child_process";
 import { existsSync } from "fs";
 import { writeFile } from "fs/promises";
+import { resolve } from "path";
 
 const link = "https://www.thisamericanlife.org/archive";
 
@@ -93,7 +94,10 @@ async function loadArchivePageData() {
 
     dataList.push(data);
   });
-  await fs.writeJson("list.json", dataList);
+  await fs.writeJson(
+    resolve(__dirname, "../../article/media/", "list.json"),
+    dataList
+  );
   return dataList;
 }
 

@@ -8,13 +8,13 @@ export const info: ArticleProto ={
   "isUpdate": true,
   "updateTime": "Oct. 20, 2023",
   "coverURL": "https://www.thisamericanlife.org/sites/default/files/styles/uncropped/public/episodes/images/tal-812-bearendoftunnel-coreyarnold.jpg?itok=W0rRl25j",
-  "audioURL": "https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/812.mp3",
+  "audioURL": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/19989fbc-b755-477e-9816-fce5cc78da16/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&awEpisodeId=19989fbc-b755-477e-9816-fce5cc78da16",
   "acts": [
     {
       "index": "Prologue",
       "title": "Prologue",
       "brief": "Brothers Wes and Jeff spent a winter tagging black bears in Bryce Canyon National Park. One of the bears they needed to tag decided to hibernate at the end of an usually long tunnel. Wes and Jeff try to figure out their next move. (5  minutes)",
-      "author": "",
+      "author": "Ira Glass",
       "timestamp": 0,
       "song": []
     },
@@ -30,7 +30,7 @@ export const info: ArticleProto ={
       "index": "Act 2",
       "title": "The Devil Is in the Details. And There Are So Many Details.",
       "brief": "Miki Meek reports on the situation for pregnant women in Idaho under the state’s new, post-Roe abortion laws, which are some of the most restrictive in the country. OB-GYNs say the state is in a crisis. Miki also talks to Idaho legislators who voted for the laws, some of whom now think there should be some changes to the laws. (42 minutes)You can listen to Miki Meek’s original story about Dr. Amelia Huntsberger here.",
-      "author": "",
+      "author": "Miki Meek",
       "timestamp": 0,
       "song": [
         {
