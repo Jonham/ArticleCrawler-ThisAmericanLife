@@ -3,5 +3,6 @@
   "javascript.updateImportsOnFileMove.enabled": "always",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "volar.updateImportsOnFileMove.enabled": false,
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "deno.enable": false
 }
