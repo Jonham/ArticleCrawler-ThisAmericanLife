@@ -85,7 +85,7 @@ export const info: ArticleProto =${JSON.stringify(data, null, "  ")}`;
     );
     const sqrImg = join(
       dirname(targetFilePath),
-      basename(targetFilePath) + "sqr" + extname(targetFilePath)
+      basename(targetFilePath) + "_sqr" + extname(targetFilePath)
     );
     await cropImage(targetFilePath, sqrImg);
   }
