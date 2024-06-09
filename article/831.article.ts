@@ -7,7 +7,7 @@ export const info: ArticleProto ={
   "isUpdate": false,
   "updateTime": "May 24, 2024",
   "coverURL": "https://www.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/tal-lists-shownames-4.jpg?itok=1sdYFEin",
-  "audioURL": "https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/831.mp3",
+  "audioURL": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/373eda1d-78f2-47c5-8905-049186415ace/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&awEpisodeId=373eda1d-78f2-47c5-8905-049186415ace",
   "acts": [
     {
       "index": "Prologue",
@@ -19,7 +19,7 @@ export const info: ArticleProto ={
     },
     {
       "index": "Act One",
-      "title": "Goals for Success",
+      "title": "List for Life",
       "brief": "John Fecile talks to his brother, Pat, about a list their other brother made before he died. They each have different ideas about what the list means and how they feel about it. (14 minutes)",
       "author": "John FecileSean Cole",
       "timestamp": 0,
