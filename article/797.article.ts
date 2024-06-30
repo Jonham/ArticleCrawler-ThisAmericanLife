@@ -7,7 +7,7 @@ export const info: ArticleProto ={
   "isUpdate": true,
   "updateTime": "June 21, 2024",
   "coverURL": "https://www.thisamericanlife.org/sites/default/files/styles/portrait/public/episodes/images/tal-whatiwasthinking-ikesriskandarajah.jpeg?itok=SoWyxAzo",
-  "audioURL": "https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/797.mp3",
+  "audioURL": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/a108fd23-2ed1-410c-9a1f-c03d2e1a8fdf/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&awEpisodeId=a108fd23-2ed1-410c-9a1f-c03d2e1a8fdf",
   "acts": [
     {
       "index": "Prologue",
