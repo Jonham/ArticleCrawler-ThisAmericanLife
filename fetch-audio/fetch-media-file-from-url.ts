@@ -2,6 +2,7 @@
 
 import { createWriteStream } from "fs";
 import { basename } from "path";
+import { $ } from "zx";
 
 type FileDownloadStreamMeta = {
   url: string;
@@ -72,46 +73,52 @@ export async function downloadMediaFile(
     }) => void;
   }
 ) {
-  const res = await resolveRedirects(link);
-  opt?.onLoadMetadata?.({
-    url: res.url,
-    fileSize: res.fileSize,
-    fileType: res.fileType,
-  });
+  // wget
 
-  const reader = res.stream.getReader();
-  const wStream = createWriteStream(targetFilePath, {
-    autoClose: false,
-  });
+  const filename = basename(link);
+  await $`wget ${link}`;
+  await $`mv ${filename} ${targetFilePath}`;
 
-  let loadedSize = 0;
-  while (true) {
-    const chunk = await reader.read();
-    const buffer = chunk.value as Uint8Array;
-    loadedSize += buffer.byteLength;
-    const isDone = loadedSize === res.fileSize;
+  // const res = await resolveRedirects(link);
+  // opt?.onLoadMetadata?.({
+  //   url: res.url,
+  //   fileSize: res.fileSize,
+  //   fileType: res.fileType,
+  // });
 
-    if (buffer) {
-      const progress = (loadedSize / res.fileSize) * 100;
-      opt?.onProgress?.({ progress, isDone });
+  // const reader = res.stream.getReader();
+  // const wStream = createWriteStream(targetFilePath, {
+  //   autoClose: false,
+  // });
 
-      const { promise, resolve, reject } = createPromise();
-      wStream.write(buffer, (err) => {
-        if (err) {
-          console.error(err);
-          return reject(err);
-        }
-        resolve("");
-      });
+  // let loadedSize = 0;
+  // while (true) {
+  //   const chunk = await reader.read();
+  //   const buffer = chunk.value as Uint8Array;
+  //   loadedSize += buffer.byteLength;
+  //   const isDone = loadedSize === res.fileSize;
 
-      await promise;
-    }
-    if (isDone) opt?.onDone?.();
-    if (chunk.done || isDone) {
-      break;
-    }
-  }
-  wStream.close();
+  //   if (buffer) {
+  //     const progress = (loadedSize / res.fileSize) * 100;
+  //     opt?.onProgress?.({ progress, isDone });
+
+  //     const { promise, resolve, reject } = createPromise();
+  //     wStream.write(buffer, (err) => {
+  //       if (err) {
+  //         console.error(err);
+  //         return reject(err);
+  //       }
+  //       resolve("");
+  //     });
+
+  //     await promise;
+  //   }
+  //   if (isDone) opt?.onDone?.();
+  //   if (chunk.done || isDone) {
+  //     break;
+  //   }
+  // }
+  // wStream.close();
   console.log(`<- DONE ${basename(targetFilePath)}`);
 }
 
