@@ -7,7 +7,7 @@ export const info: ArticleProto ={
   "isUpdate": true,
   "updateTime": "Sept. 6, 2024",
   "coverURL": "https://www.thisamericanlife.org/sites/default/files/styles/uncropped/public/episodes/images/tal-839-statefair-ferriswheel_0.jpg?itok=-zjvDRWq",
-  "audioURL": "https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/839.mp3",
+  "audioURL": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR5729005227.mp3?updated=1725707917",
   "acts": [
     {
       "index": "Prologue",
@@ -36,7 +36,7 @@ export const info: ArticleProto ={
     {
       "index": "Act Two",
       "title": "How Bad is Your Bunny?",
-      "brief": "What life lessons can kids learn at the 4-H Rabbit Competition? A lot. (11 minutes)",
+      "brief": "What life lessons can kids learn at the 4-H rabbit competition? A lot. (11 minutes)",
       "author": "Dana Chivvis",
       "timestamp": 0,
       "song": []
