@@ -7,7 +7,7 @@ export const info: ArticleProto ={
   "isUpdate": true,
   "updateTime": "Sept. 13, 2024",
   "coverURL": "https://www.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/tal-840-howareyounotseeingthis-gracialam.jpg?itok=ur8se1k4",
-  "audioURL": "https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/840.mp3",
+  "audioURL": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR8694814230.mp3",
   "acts": [
     {
       "index": "Prologue",
@@ -43,7 +43,7 @@ export const info: ArticleProto ={
     },
     {
       "index": "Act Four",
-      "title": "I’m Great. Thanks For Asking",
+      "title": "I’m Great, Thanks For NOT Asking",
       "brief": "Marie Phillips reads a short story involving an aloof friend, a goose, and some extreme gardening. (7 minutes)",
       "author": "Marie PhillipsBim Adewunmi",
       "timestamp": 0,
