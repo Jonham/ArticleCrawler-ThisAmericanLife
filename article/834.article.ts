@@ -2,12 +2,12 @@ import { ArticleProto } from '../parseContent'
 export const info: ArticleProto ={
   "number": 834,
   "title": "Yousef and the Fourth Move",
-  "brief": "Yousef is forced into a move he is not sure he can make.",
+  "brief": "In Rafah, Yousef is out of options and faces his toughest move yet.",
   "preUpdateTime": "",
   "isUpdate": false,
   "updateTime": "June 14, 2024",
   "coverURL": "https://www.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/tal-834-yousefinrafah_0.jpg?itok=zaGc_E9G",
-  "audioURL": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/b2d1490e-f8b1-413a-be5f-0fbe855deb51/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&awEpisodeId=b2d1490e-f8b1-413a-be5f-0fbe855deb51",
+  "audioURL": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR4699069598.mp3",
   "acts": [
     {
       "index": "Prologue",

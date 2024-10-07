@@ -7,13 +7,13 @@ export const info: ArticleProto ={
   "isUpdate": false,
   "updateTime": "June 28, 2024",
   "coverURL": "https://www.thisamericanlife.org/sites/default/files/styles/uncropped/public/episodes/images/tal-835-boenwangparentsokstate.jpg?itok=49xxj_gK",
-  "audioURL": "https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/835.mp3",
+  "audioURL": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR1485626536.mp3",
   "acts": [
     {
       "index": "Prologue",
       "title": "Prologue",
       "brief": "Ira talks about what it’s like to go back to 1119 Bayard Street in Baltimore. (6 minutes)",
-      "author": "",
+      "author": "Ira Glass",
       "timestamp": 0,
       "song": []
     },
@@ -21,7 +21,7 @@ export const info: ArticleProto ={
       "index": "Part One",
       "title": "Part One",
       "brief": "Boen visits Norman, Oklahoma, where he was born, to meet the man he thinks changed his parents’ lives—and his life, too. (31 minutes)",
-      "author": "",
+      "author": "Boen Wang",
       "timestamp": 0,
       "song": []
     },

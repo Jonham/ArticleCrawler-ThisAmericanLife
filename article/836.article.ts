@@ -7,7 +7,7 @@ export const info: ArticleProto ={
   "isUpdate": false,
   "updateTime": "July 19, 2024",
   "coverURL": "https://www.thisamericanlife.org/sites/default/files/styles/uncropped/public/episodes/images/gettyimages-1246879172-c.jpg?itok=edvbG3kq",
-  "audioURL": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/836ac87c-46f0-4cf9-a719-390d81aa96df/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&awEpisodeId=836ac87c-46f0-4cf9-a719-390d81aa96df",
+  "audioURL": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR5686995219.mp3",
   "acts": [
     {
       "index": "Prologue",
