@@ -1,14 +1,13 @@
 import { ArticleProto } from '../parseContent'
-
 export const info: ArticleProto ={
   "number": 815,
   "title": "How I Learned to Shave",
   "brief": "Things our dads taught us, whether they intended to or not.",
   "preUpdateTime": "November 17, 2023",
   "isUpdate": true,
-  "updateTime": "Nov. 17, 2023",
+  "updateTime": "Nov. 29, 2024",
   "coverURL": "https://www.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/tal-815-howilearnedtoshave.jpg?itok=M_EWa0a4",
-  "audioURL": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/bff58095-3db1-450f-ad23-31c8151c676e/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&awEpisodeId=bff58095-3db1-450f-ad23-31c8151c676e",
+  "audioURL": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR2361669700.mp3",
   "acts": [
     {
       "index": "Prologue",

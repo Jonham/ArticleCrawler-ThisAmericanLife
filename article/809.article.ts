@@ -1,14 +1,13 @@
 import { ArticleProto } from '../parseContent'
-
 export const info: ArticleProto ={
   "number": 809,
   "title": "The Call",
-  "brief": "One call to a very unusual hotline, and everything that followed.",
+  "brief": "One call to a very unusual hotline and everything that followed.",
   "preUpdateTime": "September 8, 2023",
   "isUpdate": true,
-  "updateTime": "Sept. 8, 2023",
+  "updateTime": "Dec. 6, 2024",
   "coverURL": "https://www.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/neverusealone-aymannismail-landscape.jpg?itok=Rr0G7UXy",
-  "audioURL": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/2eee44f6-35d4-4d71-89dd-84ce5d48cadf/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&awEpisodeId=2eee44f6-35d4-4d71-89dd-84ce5d48cadf",
+  "audioURL": "https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/809.mp3",
   "acts": [
     {
       "index": "Prologue",
