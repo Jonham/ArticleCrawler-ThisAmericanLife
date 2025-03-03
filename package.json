@@ -3,6 +3,7 @@
     "dev": "ts-node main.server.ts",
     "transform": "ts-node doTransform.ts",
     "t": "yarn transform",
+    "postinstall": "make setup",
     "start": "npx zx fetch-cli/archive/raw.mjs",
     "build": "ts-node main.ts"
   },
