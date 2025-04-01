@@ -15,12 +15,23 @@ export async function cropImage(p: string, target: string) {
     -vf "pad=w=${imgSize}:h=${imgSize}:x=-1:y=-1:color=black" \
     "${target}"`;
 }
+async function main() {
+  const args = process.argv.slice(2); // 去掉前两个默认参数
 
-// async function mainTest() {
-//   await cropImage(
-//     "/Users/jonham/code/ArticleCrawler-ThisAmericanLife/article/media/837/img-837.png",
-//     "/Users/jonham/code/ArticleCrawler-ThisAmericanLife/article/media/837/img-837.png_sqr.png"
-//   );
-// }
-
-// mainTest();
+  if (args.length === 0) {
+    console.log('No parameters provided.');
+    return;
+  }
+  if (args.length !== 2) {
+    console.log('2 params are required.');
+    return;
+  }
+  const [fromPath, targetPath] = args
+  await cropImage(fromPath, targetPath)
+}
+const inTsNode = process.argv[0].endsWith('/ts-node')
+const runAsMain = require.main === module
+if (inTsNode && runAsMain) {
+  console.log('self-run in cropImage.ts')
+  main()
+}
