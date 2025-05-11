@@ -66,13 +66,12 @@ async function saveFile(data: ArticleProto) {
 
   const articleContent = `import { ArticleProto } from '../parseContent'
 export const info: ArticleProto =${JSON.stringify(data, null, "  ")}`;
-
-  const filename = resolve(__dirname, `./article/${number}.article.ts`);
-  writeFileSync(filename, articleContent);
-
   // 下载内容
   const mediaFolder = resolve(__dirname, `./article/media/${number}/`);
   mkdirSync(mediaFolder, { recursive: true });
+
+  const filename = resolve(__dirname, `./article/${number}.article.ts`);
+  writeFileSync(filename, articleContent);
 
   if (data.audioURL) {
     console.log("> start fetching audio:", data.audioURL);

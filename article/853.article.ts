@@ -7,7 +7,7 @@ export const info: ArticleProto ={
   "isUpdate": true,
   "updateTime": "Jan. 31, 2025",
   "coverURL": "https://www.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/tal-853-groundhogday-2.jpg?itok=iS3CsXlG",
-  "audioURL": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR4398997362.mp3",
+  "audioURL": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4398997362.mp3",
   "acts": [
     {
       "index": "Prologue",

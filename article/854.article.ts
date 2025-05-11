@@ -7,7 +7,7 @@ export const info: ArticleProto ={
   "isUpdate": true,
   "updateTime": "Feb. 21, 2025",
   "coverURL": "https://www.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/tal_854_owen_freeman.png?itok=RKiPoHTa",
-  "audioURL": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR4214593193.mp3",
+  "audioURL": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4214593193.mp3",
   "acts": [
     {
       "index": "Prologue",

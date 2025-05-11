@@ -7,7 +7,7 @@ export const info: ArticleProto ={
   "isUpdate": true,
   "updateTime": "Feb. 28, 2025",
   "coverURL": "https://www.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/tal-855-aweirdthingtolieabout-yifanwu.png?itok=07L8CV3J",
-  "audioURL": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/traffic.megaphone.fm/NPR4492330255.mp3",
+  "audioURL": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4492330255.mp3",
   "acts": [
     {
       "index": "Prologue",
@@ -20,7 +20,7 @@ export const info: ArticleProto ={
     {
       "index": "Act One",
       "title": "The Real L Word",
-      "brief": "Producer Dana Chivvis talks to Liz Flock about a strange experience she had in 2011. (21 minutes)Liz Flock’s most recent book is The Furies.",
+      "brief": "Producer Dana Chivvis talks to reporter Liz Flock about a strange experience she had in 2011. (21 minutes)Liz Flock’s most recent book is The Furies.",
       "author": "Dana Chivvis",
       "timestamp": 0,
       "song": []

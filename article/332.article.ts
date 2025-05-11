@@ -7,7 +7,7 @@ export const info: ArticleProto ={
   "isUpdate": true,
   "updateTime": "Apr. 18, 2025",
   "coverURL": "https://www.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/332-bricktestament.jpeg?itok=nfi3RAZe",
-  "audioURL": "https://www.thisamericanlife.org/sites/default/files/audio/upload/promos/332.mp3",
+  "audioURL": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9480492104.mp3",
   "acts": [
     {
       "index": "",
@@ -99,13 +99,7 @@ export const info: ArticleProto ={
       "brief": "Ira talks to seventh-graders about the things they covet most. (4 minutes)",
       "author": "Ira Glass",
       "timestamp": 0,
-      "song": [
-        {
-          "raw": "“The Ten Commandments of Love” by Peaches & Herb",
-          "name": "“The Ten Commandments of Love”",
-          "singer": "Peaches & Herb"
-        }
-      ]
+      "song": []
     }
   ]
 }
