@@ -1,12 +1,24 @@
 {
   "scripts": {
     "dev": "ts-node main.server.ts",
+    "transform": "ts-node doTransform.ts",
+    "t": "yarn transform",
+    "postinstall": "make setup",
+    "start": "npx zx fetch-cli/archive/raw.mjs",
     "build": "ts-node main.ts"
   },
   "dependencies": {
     "@hapi/hapi": "^20.2.1",
-    "@types/axios": "^0.14.0",
-    "@types/node": "^17.0.4",
-    "axios": "^0.24.0"
+    "@types/node": "^17.0.45",
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.12",
+    "progress": "^2.0.3",
+    "zx": "^8.1.5"
+  },
+  "devDependencies": {
+    "@hapi/inert": "^6.0.5",
+    "node-notifier": "^10.0.1",
+    "ts-node": "^10.5.0",
+    "typescript": "^4.5.5"
   }
 }
