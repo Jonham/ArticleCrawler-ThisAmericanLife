@@ -23,13 +23,7 @@ export const info: ArticleProto ={
       "brief": "Out for a simple pleasure cruise with two friends, Alex Zharov was planning to see Jamaica Bay in New York City. But this end-of-the-day excursion, which should have only lasted 40 minutes, turns into an out-of-control adventure that left him lost, stranded, and bleeding—all within sight of the Empire State Building. Brett Martin reports. (23 minutes)",
       "author": "Brett Martin",
       "timestamp": 0,
-      "song": [
-        {
-          "raw": "“Lights” by Journey",
-          "name": "“Lights”",
-          "singer": "Journey"
-        }
-      ]
+      "song": []
     },
     {
       "index": "Act Two",
@@ -37,13 +31,7 @@ export const info: ArticleProto ={
       "brief": "There is a four-mile-long bridge in Naan-jing China, famous for how many people jump off to die by suicide. In 2003, a man named Chen Sah began spending all of his weekends on the bridge, trying to single-handedly stop the jumpers. Reporter Mike Paterniti tells his story of meeting Mr. Chen. (15 minutes)",
       "author": "Mike Paterniti",
       "timestamp": 0,
-      "song": [
-        {
-          "raw": "“Chocolate City” by Roger Troutman",
-          "name": "“Chocolate City”",
-          "singer": "Roger Troutman"
-        }
-      ]
+      "song": []
     },
     {
       "index": "Act Three",
