@@ -13,7 +13,7 @@ export const info: ArticleProto ={
       "index": "Prologue",
       "title": "",
       "brief": "When a mysterious, ripped-open package arrives on Pablo's doorstep, he takes it as a sign. (4 minutes)",
-      "author": "",
+      "author": "Ike Sriskandarajah",
       "timestamp": 0,
       "song": []
     },
@@ -29,7 +29,7 @@ export const info: ArticleProto ={
       "index": "Act Two",
       "title": "",
       "brief": "In Greek mythology, there's Hades, where everyone goes when they die. You have to cross the river Styx to get there, and there’s a gate with this three-headed dog. He’s guarding the entrance and he’s supposed to make sure only actual dead people enter. This story is about a real person in America who stood at those very gates. Which is not the easiest job it turns out, at least not right now. (24 minutes)",
-      "author": "",
+      "author": "Nadia Reiman",
       "timestamp": 0,
       "song": []
     },
@@ -37,7 +37,7 @@ export const info: ArticleProto ={
       "index": "Act Three",
       "title": "",
       "brief": "A mortal gets the assignment of a lifetime — to go interview an actual god who is living on earth, traveling under the name of Lionel Messi. (11 minutes)\n\t\n\tThis story was adapted from the podcast The Away End, hosted by Daniel Alarcón and John Green.",
-      "author": "",
+      "author": "Daniel Alarcón",
       "timestamp": 0,
       "song": [
         {
